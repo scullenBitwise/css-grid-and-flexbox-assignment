@@ -4,28 +4,172 @@
   YOUR CODE GOES HERE
 } */
 
+html, body {
+  background-color: #f6dc7d;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  /* height: 250% */
+}
+
+body > section {
+  margin-bottom: 4rem;
+}
+
+p {
+  font-weight: bold;
+}
+
+
 /*(1) Your answer goes below here for question #1 please use the border below */
-/* border: 3px solid #ffcc5c; */
+.question1 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  /* border: 3px solid #ffcc5c;  */
+}
+
+.question1 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question1 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question1 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
 
 
 /*(2) Your answer goes below here for question #2 please use the border below */
-/* border: 3px solid #1f2546; */
+
+.question2 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  /* border: 3px solid #1f2546;  */
+}
+
+.question2 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question2 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question2 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+ 
 
 
 /*(3) Your answer goes below here for question #3 please use the border below */
-/* border: 3px solid #e31c79; */
+.question3 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  /* border: 3px solid #e31c79;  */
+}
+
+.question3 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question3 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question3 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+ 
 
 
 /*(4) Your answer goes below here for question #4 please use the border below */
-/* border: 3px solid #e33618; */
+
+.question4 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  border: 3px solid #e33618; 
+}
+
+.question4 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question4 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question4 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
+.question4 > div:nth-child(4) {
+  background-color: #f5e553;
+}
+
 
 
 /*(5) Your answer goes below here for question #5 please use the border below */
-/* border: 3px solid #1f2546; */
+.question5 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  border: 3px solid #1f2546;
+}
+
+.question5 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question5 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question5 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
+.question5 > div:nth-child(4) {
+  background-color: #f5e553;
+}
+
 
 
 /*(6) Your answer goes below here for question #6 please use the border below */
-/* border: 3px solid #91d2e0 */
+.question6 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  border: 3px solid #91d2e0
+}
+
+.question6 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question6 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question6 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
+.question6 > div:nth-child(4) {
+  background-color: #f5e553;
+}
+
 
 
 /*(7) Your answer goes below here for question #7 please use the border below */
@@ -33,20 +177,141 @@
 
 
 /*(8) Your answer goes below here for question #8 please use the border & background below */
-/* border: 3px solid #7b8ac7; */
-/* background-color: #bad3e2; */
+.question8 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  /* border: 3px solid #7b8ac7; 
+background-color: #bad3e2; */
+}
+
+.question8 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question8 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question8 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
+.question8 > div:nth-child(4) {
+  background-color: #f5e553;
+}
+
+.question8 > div:nth-child(5) {
+  background-color: #5ecaf9;
+}
+
+.question8 > div:nth-child(6) {
+  background-color: #12b388;
+}
+ 
 
 
 /*(9) Your answer goes below here for question #9 please use the border & background below */
-/* border: 3px solid #7b8ac7; */
-/* background-color: #bad3e2; */
+.question9 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  border: 3px solid #7b8ac7; 
+ background-color: #bad3e2;
+}
+
+.question9 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question9 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question9 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
+.question9 > div:nth-child(4) {
+  background-color: #f5e553;
+}
+
 
 
 /*(10) Your answer goes below here for question #10 please use the border & background below */
-/* border: 3px solid #b8f9df; */
-/* background-color: #bad3e2; */
+.question10 > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  border: 3px solid #b8f9df; 
+  background-color: #bad3e2; 
+}
+
+.question10 > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question10 > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question10 > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+
+.question10 > div:nth-child(4) {
+  background-color: #f5e553;
+}
+
 
 
 /*(11) Your answer goes below here for question #11 please use the border & background below */
-/* border: 3px solid #7f798a; */
-/* background-color: #bad3e2; */
+.question11 > header {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  /* border: 3px solid #7f798a; 
+ background-color: #bad3e2; */
+}
+
+.question11 > aside {
+  padding: 10px;
+  text-align: left;
+  font-size: 2em;
+  color: #ffeead;
+}
+
+.question11 > main {
+  padding: 10px;
+  text-align: auto;
+  font-size: 2em;
+  color: #ffeead;
+}
+
+.question11 > footer {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+}
+
+.question11 > header:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.question11 > aside:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.question11 > main:nth-child(3) {
+  background-color: #3c96d7
+}
+
+.question11 > footer:nth-child(4) {
+  background-color: #f5e553;
+}
+
