@@ -1,8 +1,4 @@
-/* This is an example of how to include the border or color layout for all the problems below:
-.example {
-  border: 3px solid #bbe868;
-  YOUR CODE GOES HERE
-} */
+
 
 html, body {
   /* background-color: #f6dc7d; */
@@ -51,24 +47,30 @@ p {
 
 /*(2) Your answer goes below here for question #2 please use the border below */
 
-.question2 > div {
-  padding: 10px;
-  text-align: center;
+.question2 {
+  display: flex;
+  border: 3px solid #1f2546;  
+  justify-content: space-between;
   font-size: 2em;
   color: #ffeead;
-  /* border: 3px solid #1f2546;  */
 }
+  
+ 
+
 
 .question2 > div:nth-child(1) {
   background-color: #96ceb4;
+  width: 100%;
 }
 
 .question2 > div:nth-child(2) {
   background-color: #ff6f69;
+  width: 100%;
 }
 
 .question2 > div:nth-child(3) {
   background-color: #88d8b0;
+  width: 100%;
 }
  
 
