@@ -1,21 +1,20 @@
 /* Question1 style key */
 
-/* html, body {
-  background-color: #f6dc7d;
+html, body {
+  /* background-color: #f6dc7d; */
   font-family: Arial, Helvetica, sans-serif;
   margin: 10px;
-  /* height: 250% */
-/* } 
-
+  height: 250% 
+}
 body > section {
   margin-bottom: 4rem;
 }
 
 p {
   font-weight: bold;
-} */
+} 
 
-/* .question1 > div {
+.question1 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -32,11 +31,11 @@ p {
 
 .question1 > div:nth-child(3) {
   background-color: #88d8b0;
-} */
+} 
 
 /* Question2 style key */
 
-/* .question2 > div {
+.question2 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -53,11 +52,11 @@ p {
 
 .question2 > div:nth-child(3) {
   background-color: #88d8b0;
-} */
+}  
 
 /* Question3 style key */
 
-/* .question3 > div {
+ .question3 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -74,11 +73,11 @@ p {
 
 .question3 > div:nth-child(3) {
   background-color: #88d8b0;
-} */
+} 
 
 /* Question4 style key */
 
-/* .question4 > div {
+.question4 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -99,11 +98,11 @@ p {
 
 .question4 > div:nth-child(4) {
   background-color: #f5e553;
-} */
+} 
 
 /* Question5 style key */
 
-/* .question5 > div {
+.question5 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -124,11 +123,11 @@ p {
 
 .question5 > div:nth-child(4) {
   background-color: #f5e553;
-} */
+} 
 
 /* Question6 style key */
 
-/* .question6 > div {
+.question6 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -149,13 +148,13 @@ p {
 
 .question6 > div:nth-child(4) {
   background-color: #f5e553;
-} */
+} 
 
 /* Question7 has no style */
 
 
 /* Question8 style key */
-/* .question8 > div {
+ .question8 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -184,10 +183,10 @@ p {
 
 .question8 > div:nth-child(6) {
   background-color: #12b388;
-} */
+} 
 
 /* Question9 style key */
-/* .question9 > div {
+ .question9 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -208,10 +207,10 @@ p {
 
 .question9 > div:nth-child(4) {
   background-color: #f5e553;
-} */
+} 
 
 /* Question10 style key */
-/* .question10 > div {
+ .question10 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -232,10 +231,10 @@ p {
 
 .question10 > div:nth-child(4) {
   background-color: #f5e553;
-} */
+} 
 
 /* Question11 style key */
-/* .question11 > header {
+ .question11 > header {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -277,4 +276,4 @@ p {
 
 .question11 > footer:nth-child(4) {
   background-color: #f5e553;
-} */
+}
