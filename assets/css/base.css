@@ -1,19 +1,18 @@
 /* Question1 style key */
 
 html, body {
-  background-color: #f6dc7d;
+  /* background-color: #f6dc7d; */
   font-family: Arial, Helvetica, sans-serif;
   margin: 10px;
-  /* height: 250% */
+  height: 250% 
 }
-
 body > section {
   margin-bottom: 4rem;
 }
 
 p {
   font-weight: bold;
-}
+} 
 
 .question1 > div {
   padding: 10px;
@@ -32,7 +31,7 @@ p {
 
 .question1 > div:nth-child(3) {
   background-color: #88d8b0;
-}
+} 
 
 /* Question2 style key */
 
@@ -53,11 +52,11 @@ p {
 
 .question2 > div:nth-child(3) {
   background-color: #88d8b0;
-}
+}  
 
 /* Question3 style key */
 
-.question3 > div {
+ .question3 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -74,7 +73,7 @@ p {
 
 .question3 > div:nth-child(3) {
   background-color: #88d8b0;
-}
+} 
 
 /* Question4 style key */
 
@@ -99,7 +98,7 @@ p {
 
 .question4 > div:nth-child(4) {
   background-color: #f5e553;
-}
+} 
 
 /* Question5 style key */
 
@@ -124,7 +123,7 @@ p {
 
 .question5 > div:nth-child(4) {
   background-color: #f5e553;
-}
+} 
 
 /* Question6 style key */
 
@@ -149,13 +148,13 @@ p {
 
 .question6 > div:nth-child(4) {
   background-color: #f5e553;
-}
+} 
 
 /* Question7 has no style */
 
 
 /* Question8 style key */
-.question8 > div {
+ .question8 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -184,10 +183,10 @@ p {
 
 .question8 > div:nth-child(6) {
   background-color: #12b388;
-}
+} 
 
 /* Question9 style key */
-.question9 > div {
+ .question9 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -208,10 +207,10 @@ p {
 
 .question9 > div:nth-child(4) {
   background-color: #f5e553;
-}
+} 
 
 /* Question10 style key */
-.question10 > div {
+ .question10 > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
@@ -232,10 +231,10 @@ p {
 
 .question10 > div:nth-child(4) {
   background-color: #f5e553;
-}
+} 
 
 /* Question11 style key */
-.question11 > header {
+ .question11 > header {
   padding: 10px;
   text-align: center;
   font-size: 2em;
